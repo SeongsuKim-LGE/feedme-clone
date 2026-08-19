@@ -1,0 +1,1 @@
+- [llm-handoff-export](llm-handoff-export.md) — LLM(ChatGPT/Claude)로 내보내기 기능을 추가하거나 변경할 때 읽는다.
